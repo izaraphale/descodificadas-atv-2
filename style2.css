@@ -1,0 +1,29 @@
+div{
+    width: 350px;
+    height: 350px;
+
+    margin: auto;
+    margin-top: 30px;
+
+    outline: double 15px rgb(109, 102, 10);
+
+    border-radius: 50%;
+    border: 30px dotted rgb(22, 0, 0);
+    
+    box-shadow: inset 2px 1px 1px 40px rgb(202, 71, 71);
+
+    padding: 20px;
+    
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*Rod-eh--CSXpdjrq3NXH6A.jpeg);
+    background-size: cover;
+}
+
+p{
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 600;
+    padding: 75px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 2px 0 30px;
+}
